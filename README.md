@@ -1,6 +1,6 @@
 # Python-Challenges-Solved
 
-Simple to Intermediate Python Challenges from a Course, Solved by me
+Simple to Intermediate Python Challenges from a Course on LinkedIn Learning, Solved by me
 
 Solutions are in the code files
 
