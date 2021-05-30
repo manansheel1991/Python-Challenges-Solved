@@ -7,3 +7,5 @@ Solutions are in the code files
 CHALLENGE 1 - Find Prime Factors of a number
 
 CHALLENGE 2 - Identify if a string is a Palindrome or not
+
+CHALLENGE 3 - Sort a String
