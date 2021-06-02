@@ -9,3 +9,5 @@ CHALLENGE 1 - Find Prime Factors of a number
 CHALLENGE 2 - Identify if a string is a Palindrome or not
 
 CHALLENGE 3 - Sort a String
+
+CHALLENGE 4 - Searching the indices of a number from a number list 
